@@ -9,11 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AR.Apresentacao", "AR.Apres
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Domain", "1 - Domain", "{FBBC4102-F4D3-4803-A2D0-BD509F1CDAD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR.Domain", "AR.Domain\AR.Domain.csproj", "{03737636-2AF9-4EFA-8825-5D6781253D13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AR.Domain", "AR.Domain\AR.Domain.csproj", "{03737636-2AF9-4EFA-8825-5D6781253D13}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Data", "2 - Data", "{BAB0FD0F-1952-41E8-866F-D089D477CDD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR.Data", "AR.Data\AR.Data.csproj", "{88A3A6F9-5431-4A7B-8FCF-0F938FA42ED7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AR.Data", "AR.Data\AR.Data.csproj", "{88A3A6F9-5431-4A7B-8FCF-0F938FA42ED7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
